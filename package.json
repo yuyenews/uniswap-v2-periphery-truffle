@@ -1,0 +1,22 @@
+{
+  "name": "@uniswap-truffle/v2-periphery",
+  "version": "1.1.0-beta.0",
+  "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
+  "engines": {
+    "node": ">=10"
+  },
+  "homepage": "https://uniswap.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuyenews/uniswap-v2-periphery-truffle"
+  },
+  "files": [
+    "build",
+    "contracts"
+  ],
+  "dependencies": {
+    "@uniswap-truffle/lib": "4.0.1-alpha",
+    "@uniswap-truffle/v2-core": "1.0.0"
+  },
+  "license": "GPL-3.0-or-later"
+}
