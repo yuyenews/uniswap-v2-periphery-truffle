@@ -16,7 +16,8 @@
   ],
   "dependencies": {
     "@uniswap-truffle/lib": "4.0.1-alpha",
-    "@uniswap-truffle/v2-core": "1.0.0"
+    "@uniswap-truffle/v2-core": "1.0.1",
+    "truffle-hdwallet-provider": "^1.0.17"
   },
   "license": "GPL-3.0-or-later"
 }
